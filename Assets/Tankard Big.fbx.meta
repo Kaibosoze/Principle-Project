@@ -3,7 +3,57 @@ guid: 397a79f0f2d80ca45b4b0791eadb99ca
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: diffuse_cube
+    second: {fileID: 8900000, guid: 539a06d154f21504182276e636187346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlates014_1K-JPG_Color
+    second: {fileID: 2800000, guid: 7c7e0eb46596a274589890184be420f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlates014_1K-JPG_Metalness
+    second: {fileID: 2800000, guid: 6dcf78c626247f04e928b208a71bb460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlates014_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 5a0a2843b0bc113489e05f15fbeea690, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlates014_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 5c84b5f08dbcded4bb3042a47d8d753a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planks023B_1K-JPG_Color
+    second: {fileID: 2800000, guid: 043875d61d03d4e4083f86369a5e7138, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planks023B_1K-JPG_Metalness
+    second: {fileID: 2800000, guid: 68e65e5d2fded8d4689a0cab16bb7633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planks023B_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 88eee8503ec27d64084f44da4d92587e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planks023B_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 49911518ff1201549a1d675fe4ab9a4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ibl_brdf_lut
+    second: {fileID: 2800000, guid: 0296b9c0825d97143b0f7dfd2e645877, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
